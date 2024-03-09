@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A-R0y aka Aditya Roy.
 - 👀 I’m academically inclined towards application based coding.
-- 🏏 I'm an avid sports enthusiast especially Cricket and Bootball.
+- 🏏 I'm an avid sports enthusiast especially Cricket and Football.
 - 🌱 I’m currently learning Computer Science Engineering, Data Science and Statistics.
 
 <!---
